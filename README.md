@@ -46,7 +46,7 @@
 4. Запустите Jupyter Notebook:
    ```bash
    jupyter notebook
-Откройте файл `main.ipynb`
+5. Откройте файл `main.ipynb`
 
 Чтобы запустить проект удаленно в Google Colab, выполните следующие шаги:
 
