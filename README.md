@@ -50,8 +50,7 @@
 
 Чтобы запустить проект удаленно в Google Colab, выполните следующие шаги:
 
-1. Скачайте файлы `code/main_for_colab.ipynb` и `data/customers.csv`
-2. Откройте Google Colab и загрузите `code/main_for_colab.ipynb`
-3. Запустите код: во второй ячейке вы сможете самостоятельно загрузить `customers.csv`
+1. Скачайте файл `code/main_for_colab.ipynb`
+2. Откройте Google Colab и запустите код
 
 Готово!
